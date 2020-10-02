@@ -1,0 +1,19 @@
+{
+  "name": "simpleapi_1",
+  "version": "1.0.0",
+  "description": "A simple API which will listen to only GET request",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/souvik-pl/simpleAPI_1.git"
+  },
+  "author": "Souvik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/souvik-pl/simpleAPI_1/issues"
+  },
+  "homepage": "https://github.com/souvik-pl/simpleAPI_1#readme"
+}
